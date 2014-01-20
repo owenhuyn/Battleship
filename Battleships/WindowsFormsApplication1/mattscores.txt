@@ -1,0 +1,12 @@
+Player: matt     HitPercent: 0%     TotalShotsFired: 1     Score: -50
+Player: matt     HitPercent: 12.66%     TotalShotsFired: 1     Score: 10
+Player: matt     HitPercent: 13%     TotalShotsFired: 3     Score: 130
+Player: matt     HitPercent: 0.3%     TotalShotsFired: 1     Score: -50
+Player: matt     HitPercent: 12%     TotalShotsFired: 1     Score: 10
+Player: matt     HitPercent: 13.4%     TotalShotsFired: 3     Score: 130
+Player: matt     HitPercent: 0%     TotalShotsFired: 1     Score: -50
+Player: matt     HitPercent: 12%     TotalShotsFired: 1     Score: 10
+Player: matt     HitPercent: 13%    TotalShotsFired: 3     Score: 130
+Player: matt     HitPercent: 0%     TotalShotsFired: 1     Score: -50
+Player: matt     HitPercent: 12%     TotalShotsFired: 1     Score: 10
+Player: matt     HitPercent: 13%    TotalShotsFired: 3     Score: 130

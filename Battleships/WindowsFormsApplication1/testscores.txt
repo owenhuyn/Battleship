@@ -1,0 +1,3 @@
+Player: test     HitPercent: 12%     TotalShotsFired: 58     Score: 100
+Player: test     HitPercent: 29%     TotalShotsFired: 35     Score: 20
+Player: test     HitPercent: 29%     TotalShotsFired: 35     Score: 20
